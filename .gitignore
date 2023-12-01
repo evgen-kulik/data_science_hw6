@@ -131,3 +131,5 @@ dist
 
 test.py
 .ipynb_checkpoints/
+
+/.idea/
